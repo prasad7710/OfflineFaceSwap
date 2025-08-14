@@ -56,7 +56,7 @@ OfflineFaceSwap/shape_predictor_68_face_landmarks.dat
 Basic CMD Run:
 python face_swap.py
 
-*** Make sure you have ***
+*** Make sure you unzip required_folders.zip and place models / images in those folders***
 source/source.jpg → image containing the face to swap
 target/ folder → contains all images where the face will be swapped
 output/ folder → will be created automatically for results
@@ -64,3 +64,4 @@ output/ folder → will be created automatically for results
 ☕ Support My Work
 
 If you like this tool and want to support further development:
+
