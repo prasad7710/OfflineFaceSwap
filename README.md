@@ -17,7 +17,7 @@ Runs entirely offline — no uploads, no cloud processing and your photos never 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/OfflineFaceSwap.git
+git clone https://github.com/prasad7710/OfflineFaceSwap.git
 cd OfflineFaceSwap
 
 ### 2. Create a Virtual Environment
@@ -62,4 +62,5 @@ target/ folder → contains all images where the face will be swapped
 output/ folder → will be created automatically for results
 
 ☕ Support My Work
+
 If you like this tool and want to support further development:
